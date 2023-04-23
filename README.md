@@ -9,7 +9,7 @@ Currently I'm a Full Stack Software Engineer in Javascript echosystem.</p>
 
 <p align="left"> <a href="https://twitter.com/farhankk360" target="blank"><img src="https://img.shields.io/twitter/follow/farhankk360?logo=twitter&style=for-the-badge" alt="farhankk360" /></a> </p>
 
-- 🔭 I’m currently working as Full Stack Software Engineer at [Masteryprep](https://www.masteryprep.com)
+- 🔭 I’m currently working as Frontend Software Engineer at [Laetro](https://www.laetro.com)
 
 - 🌱 I’m currently learning **Go, Three.js, Flutter**
 
